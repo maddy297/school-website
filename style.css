@@ -1,0 +1,90 @@
+#map iframe {
+    width: 60%;
+    float: left;
+    padding-top: 5px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#footer {
+    height: 20px;
+    background-color: darkgrey;
+}
+
+input {
+    background: white;
+}
+
+.announcement {
+    background-color: #abfff7;
+    width: 100%;
+    height: 30px;
+}
+
+#marqueeStyle {
+    width: 100%;
+    direction: right;
+    height: 100px;
+    color: darkviolet;
+    font-size: 120%;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travelm_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
