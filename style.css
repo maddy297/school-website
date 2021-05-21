@@ -118,3 +118,8 @@ input {
 .book hr {
     margin-bottom: 10px;
 }
+
+#footer{
+    height:20px;
+    background-color:white;
+}
